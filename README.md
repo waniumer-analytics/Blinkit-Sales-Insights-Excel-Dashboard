@@ -118,6 +118,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 5. Rating gaps signal revenue leaks    – every 0.1 point = 2-4% repeat visits.
 
                                                     LINKS 
-- Website Portfolio:-
+-Created By:- WANI UMER
+-  Website Portfolio:-
 - GitHUB :- https://github.com/waniumer-analytics
-- LinkedIn :- www.linkedin.com/in/waniumer-analytics
+- LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_excel-isnt-just-about-rows-and-columns-activity-7370133418849771520-ma67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
