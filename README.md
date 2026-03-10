@@ -54,12 +54,12 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 2.  Upselling opportunity  : Moderate basket sizes with $5-15 lift potential.
   Action  : Deploy "$150 spend = $10 off" promotions, train staff on bundling.
 
-                                Product Portfolio Optimization
+                    Product Portfolio Optimization
 1. 8,523 SKUs = complexity risk spreading inventory thin.
 2. Top 20% items drive 80% revenue  (ABC analysis needed).
 3. Action  : Cut bottom 500-1,000 slow movers, reinvest in top performers.
 
-                                   Outlet Performance
+                       Outlet Performance
 1. Medium outlets dominate  : $508K (42%) vs High $445K.
 2. Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
 3. Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
@@ -71,7 +71,8 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
   3. Long-tail drain : 13 categories under $60K waste resources.
   4. Action   : Double F&V SKUs, consolidate tail categories.
 
-                                        Growth Concerns
+                             Growth Concerns
+
 1. Expansion stalled post-2017   : Peak $205K (2018) → $132K (2022).
 2. 4.0 rating = "good not great" (trails 4.3-4.5 leaders).
 3. Action  : Close bottom 10% outlets, launch 15-20 Tier 3 stores.
@@ -84,17 +85,19 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 2. Basket Building       : $150 threshold promos, checkout impulse buys.
 3. Tier 3 Blitz          : Open 5-7 outlets in high-performing smaller cities.
 
-                                      Growth Levers (6-12 months)
+                          Growth Levers (6-12 months)
 1. Medium Format Focus : 70% of new openings in sweet-spot size.
 2.  Rating Recovery     : Target 4.3+ via complaint resolution & best practice replication.
 3.  Premium Push        : Test regular fat variants at 10-15% markup, premium low-fat at 15% markup.
 
                                           Operational Efficiency
+
 1. ABC Analysis  : Focus on top 1,000 SKUs driving 80% revenue.
 2. Seasonal Strategy  : Low-fat in Jan-Feb, regular fat during festivals.
 3. Outlet Audit   : Close underperformers, convert high→medium format.
 
-                                                  Expected Impact
+                                                  Expected Impact.
+
 1. +25% revenue growth    ($1.2M → $1.5M target).
 2. +$10-15/transaction from basket-building initiatives.
 3. +20% margin on F&V via farm partnerships.
@@ -117,8 +120,8 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 4. Data-driven pruning unlocks growth  – cutting losers funds winners.
 5. Rating gaps signal revenue leaks    – every 0.1 point = 2-4% repeat visits.
 
-                                                    LINKS 
--Created By:- WANI UMER
--  Website Portfolio:-
-- GitHUB :- https://github.com/waniumer-analytics/Blinkit-Sales-Dashboard-Excel/tree/main 
+                                                          LINKS 
+-Created By:- WANI UMER ( Data Analyst)
+-  Website Portfolio:-https://codebasics.io/portfolio/WANI-UMER 
+
 - LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_excel-isnt-just-about-rows-and-columns-activity-7370133418849771520-ma67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
