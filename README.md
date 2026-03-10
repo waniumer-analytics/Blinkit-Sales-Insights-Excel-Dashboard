@@ -50,26 +50,26 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 
                                 Revenue & Transaction Patterns
    	
-1.  $1.2M milestone achieved with $141 Avg transaction.
-2.  Upselling opportunity  : Moderate basket sizes with $5-15 lift potential.
-  Action  : Deploy "$150 spend = $10 off" promotions, train staff on bundling.
+⇒  $1.2M milestone achieved with $141 Avg transaction.
+⇒ Upselling opportunity  : Moderate basket sizes with $5-15 lift potential.
+⇒  Action  : Deploy "$150 spend = $10 off" promotions, train staff on bundling.
 
                     Product Portfolio Optimization
-1. 8,523 SKUs = complexity risk spreading inventory thin.
-2. Top 20% items drive 80% revenue  (ABC analysis needed).
-3. Action  : Cut bottom 500-1,000 slow movers, reinvest in top performers.
+⇒   8,523 SKUs = complexity risk spreading inventory thin.
+⇒   Top 20% items drive 80% revenue  (ABC analysis needed).
+⇒   Action  : Cut bottom 500-1,000 slow movers, reinvest in top performers.
 
                        Outlet Performance
-1. Medium outlets dominate  : $508K (42%) vs High $445K.
-2. Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
-3. Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
-4. Action  : Prioritize medium-format + Tier 3 expansion.
+⇒   Medium outlets dominate  : $508K (42%) vs High $445K.
+⇒  Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
+⇒   Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
+⇒   Action  : Prioritize medium-format + Tier 3 expansion.
 
                                      Category & Product Mix
-  1. Fruits/Vegetables underutilized   : $178K from only 81 SKUs (highest efficiency).
-  2. Regular fat dominates   : 65% ($776K) vs Low fat 35% ($425K).
-  3. Long-tail drain : 13 categories under $60K waste resources.
-  4. Action   : Double F&V SKUs, consolidate tail categories.
+  ⇒   Fruits/Vegetables underutilized   : $178K from only 81 SKUs (highest efficiency).
+  ⇒   Regular fat dominates   : 65% ($776K) vs Low fat 35% ($425K).
+  ⇒   Long-tail drain : 13 categories under $60K waste resources.
+  ⇒  Action   : Double F&V SKUs, consolidate tail categories.
 
                              Growth Concerns
 
