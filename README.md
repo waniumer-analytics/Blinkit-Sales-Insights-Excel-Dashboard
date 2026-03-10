@@ -1,7 +1,5 @@
                                    RETAIL SALES  ANALYSIS DASHBOARD  – Blinkit.
-                                   
-                                                    
-   
+                            
                                 DOMAIN :- Retail | Sales Analytics | Business Intelligence    
 
                                                       PROJECT OVERVIEW 
@@ -10,10 +8,7 @@ This project showcases a "Retail Sales Dashboard" built in Excel for Blinkit.
 The goal was to analyze sales trends, customer preferences, and outlet performance to generate data-driven insights.
 
 <img width="1553" height="801" alt="BLINKIT SS2" src="https://github.com/user-attachments/assets/f330846c-0ade-463b-9bf0-8abb357b600a" />
-
-
-
-                                                       
+                                                      
                                           BLINKIT BUSINESS OBJECTIVES
                                           
 1.	 Total Sales: The overall revenue generated from all items sold.
@@ -47,28 +42,29 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
  
                                         BLINKIT SALES INSIGHTS
    	
-
-                                Revenue & Transaction Patterns
+                                    Revenue & Transaction Patterns
    	
-⇒  $1.2M milestone achieved with $141 Avg transaction.
-⇒ Upselling opportunity  : Moderate basket sizes with $5-15 lift potential.
-⇒  Action  : Deploy "$150 spend = $10 off" promotions, train staff on bundling.
+1.  $1.2M milestone achieved with $141 Avg transaction.
+2.   Upselling opportunity  : Moderate basket sizes with $5-15 lift potential.
+⇒   Action  : Deploy "$150 spend = $10 off" promotions, train staff on bundling.
 
-                    Product Portfolio Optimization
-⇒   8,523 SKUs = complexity risk spreading inventory thin.
-⇒   Top 20% items drive 80% revenue  (ABC analysis needed).
+                             Product Portfolio Optimization
+   
+1.   8,523 SKUs = complexity risk spreading inventory thin.
+2.   Top 20% items drive 80% revenue  (ABC analysis needed).
 ⇒   Action  : Cut bottom 500-1,000 slow movers, reinvest in top performers.
 
-                       Outlet Performance
-⇒   Medium outlets dominate  : $508K (42%) vs High $445K.
-⇒  Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
-⇒   Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
+                          Outlet Performance
+1.   Medium outlets dominate  : $508K (42%) vs High $445K.
+2.    Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
+3.  Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
 ⇒   Action  : Prioritize medium-format + Tier 3 expansion.
 
-                                     Category & Product Mix
-  ⇒   Fruits/Vegetables underutilized   : $178K from only 81 SKUs (highest efficiency).
-  ⇒   Regular fat dominates   : 65% ($776K) vs Low fat 35% ($425K).
-  ⇒   Long-tail drain : 13 categories under $60K waste resources.
+                                     Category & Product Mix.
+    
+   1.  ruits/Vegetables underutilized   : $178K from only 81 SKUs (highest efficiency).
+   2.   Regular fat dominates   : 65% ($776K) vs Low fat 35% ($425K).
+   3.    Long-tail drain : 13 categories under $60K waste resources.
   ⇒  Action   : Double F&V SKUs, consolidate tail categories.
 
                              Growth Concerns
@@ -78,19 +74,20 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 3. Action  : Close bottom 10% outlets, launch 15-20 Tier 3 stores.
 
 
-                                        STRATEGIC RECOMMENDATIONS 
+                                        STRATEGIC RECOMMENDATIONS
 
-                                       Immediate Actions (Q1)
+                                  Immediate Actions (Q1)
 1. SKU Rationalization  : Cut 500-1,000 items, double F&V selection to 160+ SKUs.
 2. Basket Building       : $150 threshold promos, checkout impulse buys.
 3. Tier 3 Blitz          : Open 5-7 outlets in high-performing smaller cities.
 
-                          Growth Levers (6-12 months)
+                                  Growth Levers (6-12 months)
+   
 1. Medium Format Focus : 70% of new openings in sweet-spot size.
 2.  Rating Recovery     : Target 4.3+ via complaint resolution & best practice replication.
 3.  Premium Push        : Test regular fat variants at 10-15% markup, premium low-fat at 15% markup.
 
-                                          Operational Efficiency
+                                  Operational Efficiency
 
 1. ABC Analysis  : Focus on top 1,000 SKUs driving 80% revenue.
 2. Seasonal Strategy  : Low-fat in Jan-Feb, regular fat during festivals.
@@ -112,7 +109,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 - Slicers & Filters.
 - Dashboard Design.
 
-                                                     KEY LEARNINGS FROM THIS PROJECT
+                                                     KEY LEARNINGS 
 
 1. SKU complexity kills efficiency    – less is more with focused hero products.
 2. Location > Format                   – Tier 3 beats Tier 1 despite lower prestige.
@@ -121,7 +118,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 5. Rating gaps signal revenue leaks    – every 0.1 point = 2-4% repeat visits.
 
                                                           LINKS 
--Created By:- WANI UMER ( Data Analyst)
--  Website Portfolio:-https://codebasics.io/portfolio/WANI-UMER 
+- WANI UMER ( Data Analyst)
+-  Portfolio:-https://codebasics.io/portfolio/WANI-UMER 
 
 - LinkedIn :- https://www.linkedin.com/posts/waniumer-analytics_excel-isnt-just-about-rows-and-columns-activity-7370133418849771520-ma67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
