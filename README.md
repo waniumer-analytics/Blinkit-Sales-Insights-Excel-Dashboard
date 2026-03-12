@@ -1,10 +1,10 @@
-                                   RETAIL SALES  ANALYSIS DASHBOARD  – Blinkit.
+                                   RETAIL SALES  ANALYSIS  – Blinkit.
                             
                                 DOMAIN :- Retail | Sales Analytics | Business Intelligence    
 
                                                       PROJECT OVERVIEW 
 
-This project showcases a "Retail Sales Dashboard" built in Excel for Blinkit.  
+This project showcases a "Retail Sales " built in Excel for Blinkit.  
 The goal was to analyze sales trends, customer preferences, and outlet performance to generate data-driven insights.
 
 <img width="1553" height="801" alt="BLINKIT SS2" src="https://github.com/user-attachments/assets/f330846c-0ade-463b-9bf0-8abb357b600a" />
@@ -40,7 +40,7 @@ Objective: Assess the geographic distribution of sales across different location
 11.	All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.                                     
  
-                                        BLINKIT SALES INSIGHTS
+                                        SALES INSIGHTS
    	
                                     Revenue & Transaction Patterns
    	
@@ -54,7 +54,8 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 2.   Top 20% items drive 80% revenue  (ABC analysis needed).
 ⇒   Action  : Cut bottom 500-1,000 slow movers, reinvest in top performers.
 
-                          Outlet Performance
+                                 Outlet Performance
+     
 1.   Medium outlets dominate  : $508K (42%) vs High $445K.
 2.    Tier 3 locations outperform  : $472K vs Tier 1 $336K (40% gap).
 3.  Supermarket Type1 leads  : $788K vs Grocery Stores $152K.
